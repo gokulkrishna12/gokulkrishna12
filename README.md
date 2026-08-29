@@ -72,7 +72,7 @@ I care about writing clean, maintainable code and shipping applications that act
 ### 🚀 Featured Projects
 
 <details>
-<summary><b><font color="#4493f8">🛒 GK ShopEase — AI-Powered Full-Stack E-Commerce Platform</font></b></summary>
+<summary><b><a href="#rocket-featured-projects">🛒 GK ShopEase — AI-Powered Full-Stack E-Commerce Platform</a></b></summary>
 <br/>
 
 End-to-end cloud e-commerce platform with a decoupled React frontend and modular Spring Boot backend, deployed across AWS infrastructure with an integrated GenAI shopping assistant.
@@ -91,7 +91,7 @@ Automated dual CI/CD pipelines handle Maven builds, SCP transfers, systemd servi
 </details>
 
 <details>
-<summary><b><font color="#4493f8">💰 Expense Tracker — Secure Full Stack Finance App</font></b></summary>
+<summary><b><a href="#rocket-featured-projects">💰 Expense Tracker — Secure Full Stack Finance App</a></b></summary>
 <br/>
 
 A full stack expense management app with JWT authentication, category-wise tracking, and dashboard analytics.
@@ -107,7 +107,7 @@ A full stack expense management app with JWT authentication, category-wise track
 </details>
 
 <details>
-<summary><b><font color="#4493f8">🏋️ Fit-Track Pro Gym — Workout Tracking Platform</font></b></summary>
+<summary><b><a href="#rocket-featured-projects">🏋️ Fit-Track Pro Gym — Workout Tracking Platform</a></b></summary>
 <br/>
 
 A mobile-first fitness tracker with real-time workout stats and secure authentication.
@@ -123,7 +123,7 @@ A mobile-first fitness tracker with real-time workout stats and secure authentic
 </details>
 
 <details>
-<summary><b><font color="#4493f8">📦 Inventory Management System</font></b></summary>
+<summary><b><a href="#rocket-featured-projects">📦 Inventory Management System</a></b></summary>
 <br/>
 
 A full CRUD inventory platform with a custom glassmorphism UI.
@@ -138,7 +138,7 @@ A full CRUD inventory platform with a custom glassmorphism UI.
 </details>
 
 <details>
-<summary><b><font color="#4493f8">👥 Employee Management System</font></b></summary>
+<summary><b><a href="#rocket-featured-projects">👥 Employee Management System</a></b></summary>
 <br/>
 
 A classic full stack CRUD application for managing employee records.
