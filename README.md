@@ -165,32 +165,8 @@ open_to:
 ```
 
 ---
-### 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gokulkrishna12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&v=1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulkrishna12&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkrishna12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&v=1" />
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gokulkrishna12&theme=algolia&no-frame=true&margin-w=10&column=7&v=1" />
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulkrishna12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff&v=1" />
-</div>
-
-
+<img src="assets/metrics.svg" alt="GitHub Metrics" width="100%">
 
 ### 🐍 Contribution Snake
 
