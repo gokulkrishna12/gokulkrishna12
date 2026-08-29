@@ -8,22 +8,22 @@
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%40%20MGR%20University-5B21B6?style=flat-square)
-![Graduate](https://img.shields.io/badge/Graduated-2024-6D28D9?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-7C3AED?style=flat-square)
-![Location](https://img.shields.io/badge/Location-India-8B5CF6?style=flat-square)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%40%20MGR%20University-B30000?style=flat-square)
+![Graduate](https://img.shields.io/badge/Graduated-2024-B30000?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-B30000?style=flat-square)
+![Location](https://img.shields.io/badge/Location-India-B30000?style=flat-square)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://gokulkrishna-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulkrishna08)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulkrishna12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B30000?style=for-the-badge&logo=vercel&logoColor=white)](https://gokulkrishna-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B30000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulkrishna08)
+[![GitHub](https://img.shields.io/badge/GitHub-B30000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulkrishna12)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gokulkrishna12&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/gokulkrishna12?color=8b5cf6&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/gokulkrishna12?color=8b5cf6&style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=gokulkrishna12&color=B30000&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/gokulkrishna12?color=B30000&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/gokulkrishna12?color=B30000&style=flat-square&label=Stars)
 
 </div>
 
