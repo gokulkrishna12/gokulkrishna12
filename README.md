@@ -171,11 +171,8 @@ open_to:
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=1" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg?v=2#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=2#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
 </div>
 
 ---
