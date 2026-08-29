@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=200&section=header&text=Gokul%20Krishna%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+17+%7C+Spring+Boot+%7C+React;AWS+%2B+CI%2FCD+%7C+Docker;Building+GenAI-powered+Full+Stack+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B30000&center=true&vCenter=true&width=600&lines=Java+17+%7C+Spring+Boot+%7C+React;AWS+%2B+CI%2FCD+%7C+Docker;Building+GenAI-powered+Full+Stack+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -196,6 +196,6 @@ open_to:
 
 *"Code is easy. Shipping something people can actually use — that's the real work."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B30000,100:660000&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=100&section=footer" />
 
 </div>
