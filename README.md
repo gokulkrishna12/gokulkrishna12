@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:6D28D9&height=200&section=header&text=Gokul%20Krishna%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=200&section=header&text=Gokul%20Krishna%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+17+%7C+Spring+Boot+%7C+React;AWS+%2B+CI%2FCD+%7C+Docker;Building+GenAI-powered+Full+Stack+Apps" alt="Typing SVG" />
@@ -43,34 +43,36 @@ I care about writing clean, maintainable code and shipping applications that act
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+💻 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
-**Frontend**
-![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![SCSS](https://skillicons.dev/icons?i=sass)
+<br/>
 
-**Backend & Databases**
-![Spring](https://skillicons.dev/icons?i=spring) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+🎨 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,sass" />
 
-**Cloud, DevOps & Tooling**
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
+<br/>
+
+⚙️ **Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb" />
+
+<br/>
+
+☁️ **Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,postman,vercel" />
 
 ---
-
-### 🤖 AI / ML & GenAI Integration
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| LLM API Integration | Applied | Integrated Google Gemini API via async REST endpoints for real-time, context-aware product suggestions |
-| Prompt-driven Features | Applied | Built AI-assisted shopping suggestions inside a full production e-commerce flow |
-| JSON Streaming | Applied | Used Jackson JSON streaming to handle real-time LLM responses |
 
 ---
 
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>🛒 GK ShopEase — AI-Powered Full-Stack E-Commerce Platform</b></summary>
+<summary><b><a href="https://github.com/gokulkrishna12/E-Commerce-FRONTEND">🛒 GK ShopEase — AI-Powered Full-Stack E-Commerce Platform</a></b></summary>
 <br/>
 
 End-to-end cloud e-commerce platform with a decoupled React frontend and modular Spring Boot backend, deployed across AWS infrastructure with an integrated GenAI shopping assistant.
@@ -89,7 +91,7 @@ Automated dual CI/CD pipelines handle Maven builds, SCP transfers, systemd servi
 </details>
 
 <details>
-<summary><b>💰 Expense Tracker — Secure Full Stack Finance App</b></summary>
+<summary><b><a href="https://github.com/gokulkrishna12/Expense-Tracker-Frontend">💰 Expense Tracker — Secure Full Stack Finance App</a></b></summary>
 <br/>
 
 A full stack expense management app with JWT authentication, category-wise tracking, and dashboard analytics.
@@ -105,7 +107,7 @@ A full stack expense management app with JWT authentication, category-wise track
 </details>
 
 <details>
-<summary><b>🏋️ Fit-Track Pro Gym — Workout Tracking Platform</b></summary>
+<summary><b><a href="https://github.com/gokulkrishna12/Fit-Track-FRONTEND">🏋️ Fit-Track Pro Gym — Workout Tracking Platform</a></b></summary>
 <br/>
 
 A mobile-first fitness tracker with real-time workout stats and secure authentication.
@@ -121,7 +123,7 @@ A mobile-first fitness tracker with real-time workout stats and secure authentic
 </details>
 
 <details>
-<summary><b>📦 Inventory Management System</b></summary>
+<summary><b><a href="https://github.com/gokulkrishna12/Inventory-Management-FRONTEND">📦 Inventory Management System</a></b></summary>
 <br/>
 
 A full CRUD inventory platform with a custom glassmorphism UI.
@@ -136,7 +138,7 @@ A full CRUD inventory platform with a custom glassmorphism UI.
 </details>
 
 <details>
-<summary><b>👥 Employee Management System</b></summary>
+<summary><b><a href="https://github.com/gokulkrishna12/Employee-Management-system-FRONTEND">👥 Employee Management System</a></b></summary>
 <br/>
 
 A classic full stack CRUD application for managing employee records.
@@ -170,9 +172,9 @@ open_to:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=1" width="100%">
   </picture>
 </div>
 
@@ -194,6 +196,6 @@ open_to:
 
 *"Code is easy. Shipping something people can actually use — that's the real work."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:5B21B6&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B30000,100:660000&height=100&section=footer" />
 
 </div>
