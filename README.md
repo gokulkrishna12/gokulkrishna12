@@ -166,8 +166,6 @@ open_to:
 
 ---
 
-<img src="assets/metrics.svg" alt="GitHub Metrics" width="100%">
-
 ### 🐍 Contribution Snake
 
 <div align="center">
