@@ -18,7 +18,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-B30000?style=for-the-badge&logo=vercel&logoColor=white)](https://gokulkrishna-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B30000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulkrishna08)
 [![GitHub](https://img.shields.io/badge/GitHub-B30000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulkrishna12)
-[![Resume](https://img.shields.io/badge/Resume-B30000?style=for-the-badge&logo=googledocs&logoColor=white)](#)
 
 <br/>
 
@@ -221,15 +220,6 @@ open_to:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulkrishna12&show_icons=true&theme=transparent&hide_border=true&title_color=B30000&icon_color=B30000&text_color=333333" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulkrishna12&theme=default&hide_border=true&background=00000000&ring=B30000&fire=B30000&currStreakLabel=B30000" height="165" />
-</div>
-
----
-
 ### Activities
 
 <div align="center">
@@ -255,6 +245,6 @@ open_to:
 
 *"Code is easy. Shipping something people can actually use — that's the real work."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=200&section=footer&text=Gokul%20Krishna%20M&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Fullstack%20Java%20%26%20MERN%20Stack%20Developer&descAlignY=80&descSize=16" />
 
 </div>
