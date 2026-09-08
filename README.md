@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=200&section=header&text=Gokul%20Krishna%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%26%20MERN%20Full%20Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=200&section=header&text=Gokul%20Krishna%20M&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Fullstack%20Java%20%26%20MERN%20Stack%20Developer&descAlignY=80&descSize=16" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B30000&center=true&vCenter=true&width=650&lines=Java+17+%7C+Spring+Boot+%7C+MERN+Stack;React+18+%7C+Node.js+%7C+Express+%7C+MongoDB;AWS+(EC2%2C+CloudFront)+%7C+Docker+%7C+CI%2FCD;Building+GenAI-powered+Full+Stack+Apps" alt="Typing SVG" />
