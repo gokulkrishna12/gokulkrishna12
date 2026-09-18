@@ -222,9 +222,11 @@ open_to:
 
 ### Activities
 
+### Activities
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg?v=2#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=2#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
+  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg?v=3#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=3#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
 </div>
 
 ---
