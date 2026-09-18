@@ -223,11 +223,10 @@ open_to:
 ### 🐍 Activity Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg?v=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=10">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?v=10">
-  </picture>
+
+![Contribution Snake Dark](https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake Light](https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </div>
 ---
 
