@@ -223,9 +223,11 @@ open_to:
 ### 🐍 Activity Snake
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
-  <img src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
-</div>
+
+![Contribution Snake Dark](https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake Light](https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>>
 ---
 
 ### 📫 Connect With Me
