@@ -220,11 +220,14 @@ open_to:
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Activity Snake
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
-  <img src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 ---
 
