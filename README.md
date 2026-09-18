@@ -216,3 +216,37 @@ exploring:
   - Generative AI integrations, real-time streaming, and high-availability cloud setups
 open_to:
   - Full Stack Developer (Java / MERN) / Software Engineer roles
+
+---
+
+### 🐍 Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake-dark.svg?v=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg?v=10">
+    <img alt="GitHub Contribution Snake" src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg?v=10">
+  </picture>
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokuldinesh32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulkrishna08)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gokulkrishna-portfolio.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is easy. Shipping something people can actually use — that's the real work."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:B30000&height=200&section=footer&text=Gokul%20Krishna%20M&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Fullstack%20Java%20%26%20MERN%20Stack%20Developer&descAlignY=80&descSize=16" />
+
+</div>
