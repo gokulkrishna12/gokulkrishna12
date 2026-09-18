@@ -250,4 +250,10 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B30000&height=250&section=footer&text=Gokul%20Krishna%20M&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Fullstack%20Java%20and%20MERN%20Stack%20Developer&descAlignY=85&descSize=16&cb=8888" />
 
+<br/>
+
+<p align="center">
+  <sub><i>Developed by Gokul Krishna © 2026. All rights reserved.</i></sub>
+</p>
+
 </div>
