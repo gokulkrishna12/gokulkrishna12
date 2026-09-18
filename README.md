@@ -223,8 +223,8 @@ open_to:
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake-dark.svg?force=1#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/gokulkrishna12/gokulkrishna12/output/github-contribution-grid-snake.svg?force=1#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/gokulkrishna12/gokulkrishna12@output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
 </div>
 ---
 
